@@ -1,0 +1,104 @@
+.download {
+            box-shadow: 0px 0px 12px -5px #000000;
+            background-color:#eb1111;
+            border-radius:28px;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-family: 'Russo One', sans-serif;
+            font-size:17px;
+            font-weight:bold;
+            padding:18px 76px;
+            text-decoration:none;
+            margin top: 50%;
+        }
+        .download:hover {
+            background-color:#fc5b5b;
+        }
+        .download:active {
+            position:relative;
+        }
+        #bg{
+          background: #ffffff;
+          border-radius: 4%;
+          position: relative;
+         box-shadow: 0px 0px 9px 2px #000000;
+          margin-right: 3%;
+          margin-left: 3%;
+          
+          }
+          
+            button {
+                box-shadow: 0px 0px 12px -5px #000000;
+                  margin right: -10%;
+                padding: 10px 0 20px 0;
+                text-align: center;
+                min-height: 50px;
+                min-width: 80%;
+                margin: 5px 0;
+                background: #808080;
+                border: none;
+                outline: none;
+                color: #f4f4f4;
+                font-size: 14px;
+                font-weight: bold;
+                cursor: pointer;
+                border-radius: 15px 5px;
+                transition: 0.5s;
+                  position: absolute;
+                  left: 10%;
+                   vertical-align: middle;
+                  display: inline-block;
+               margin: 0 auto;
+               padding: 0;
+              font-family: 'Russo One', sans-serif;
+            }
+        
+            button:last-child {
+                background: #008000;
+              opacity: 0.6;
+            }
+            #downloadf {
+                background-image: linear-gradient(to right, #0bff00, #0cf919, #0ef225, #11ec2e, #15e635, #19e136, #1cdb36, #1fd637, #22d033, #24ca2f, #26c42b, #27be27);
+              opacity: 0.2;
+            }
+    
+            #downloadg {
+                background-image: linear-gradient(to right, #0bff00, #0cf919, #0ef225, #11ec2e, #15e635, #19e136, #1cdb36, #1fd637, #22d033, #24ca2f, #26c42b, #27be27);
+              opacity: 0.2;
+            }
+            button:hover {
+                font-size: 16px;
+            }
+            .yt {
+    background-image: linear-gradient(to right, #ff0000, #f90707, #f30d0d, #ec1212, #e61616, #e11919, #db1c1c, #d61e1e, #d02121, #ca2323, #c42525, #be2727);
+            }
+            .ig {
+                background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    
+            }
+          
+          .list {
+            font-family: 'Russo One', sans-serif;
+            box-shadow: 0px 0px 12px -5px #000000;
+            background-color:#eb1111;
+            border-radius:28px;
+            display:inline-block;
+            cursor:pointer;
+            color:#ffffff;
+            font-size:17px;
+            font-weight:bold;
+            padding:18px 76px;
+            text-decoration:none;
+        }
+        .list:hover {
+            background-color:#54d175;
+        }
+        .list:active {
+            position:relative;
+            top:1px;
+        }
